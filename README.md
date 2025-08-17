@@ -5,7 +5,6 @@ The project focuses on building a modern, responsive, and user-friendly multi-pa
 
 Each task introduced new concepts, features, and design elements to strengthen front-end development skills.
 
-✅ Tasks Completed
 Task 1 – Personal Portfolio Landing Page
 
 Designed a clean and modern landing page with HTML and CSS.
