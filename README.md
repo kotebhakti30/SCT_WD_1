@@ -1,17 +1,23 @@
-🚀 Project Overview
+# 🌐 Responsive Landing Page
 
-This repository contains the deliverables for my web development internship at Skillcraft Technology.
-The project focuses on building a modern, responsive, and user-friendly multi-page website using HTML, CSS, and JavaScript.
+## 📌 Project Overview
+A modern and responsive **Landing Page** built using HTML, CSS, and JavaScript.  
+Features a sticky navigation bar that changes color on scroll, smooth scrolling, and interactive sections.
 
-Each task introduced new concepts, features, and design elements to strengthen front-end development skills.
+## ✨ Features
+- Sticky navbar that changes style on scroll
+- Hero section with call-to-action button
+- About, Services, and Contact sections
+- Smooth scrolling for navigation
+- Fully responsive for mobile, tablet, and desktop
 
-Task 1 – Personal Portfolio Landing Page
+## 🛠️ Tech Stack
+- HTML5
+- CSS3
+- JavaScript
 
-Designed a clean and modern landing page with HTML and CSS.
+## 🌐 Live Demo
+👉 [View Project](https://kotebhakti30.github.io/SCT_WD_1/)
 
-Implemented responsive layout using flexbox and grid.
+---
 
-Used color-theming and typography for a professional look.
-
-🚩 Learning: Fundamentals of responsive design and layout structuring.
-Check it out:https://kotebhakti30.github.io/SCT_WD_1/
